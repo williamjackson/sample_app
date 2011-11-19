@@ -30,6 +30,7 @@ GEM
       activesupport (= 3.1.1)
     activesupport (3.1.1)
       multi_json (~> 1.0)
+    annotate (2.4.0)
     arel (2.2.1)
     autotest (4.4.6)
       ZenTest (>= 4.4.1)
@@ -134,6 +135,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotate
   autotest
   autotest-fsevent
   autotest-growl
